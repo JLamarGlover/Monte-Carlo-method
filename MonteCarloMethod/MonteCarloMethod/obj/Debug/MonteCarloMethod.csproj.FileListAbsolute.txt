@@ -1,0 +1,7 @@
+C:\Users\juand\source\repos\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.exe.config
+C:\Users\juand\source\repos\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.exe
+C:\Users\juand\source\repos\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.pdb
+C:\Users\juand\source\repos\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.exe
+C:\Users\juand\source\repos\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.pdb
+C:\Users\juand\source\repos\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.csprojAssemblyReference.cache
